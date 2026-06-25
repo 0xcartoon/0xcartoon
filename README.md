@@ -61,4 +61,8 @@
   <a href="https://discord.com/users/433351598094155787">
     <img src="https://skillicons.dev/icons?i=discord" height="45"/>
   </a>
+  &nbsp;
+  <a href="https://t.me/cartoon0x">
+    <img src="https://skillicons.dev/icons?i=telegram" height="45"/>
+  </a>
 </p>
