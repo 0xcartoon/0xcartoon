@@ -53,14 +53,18 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://github.com/0xcartoon">
-    <img src="https://img.shields.io/badge/GitHub-0xcartoon-181717?style=for-the-badge&logo=github&logoColor=white" />
+## 🌐 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/0xcartoon" target="_blank">
+    <img src="https://cdn.simpleicons.org/github/white" height="45" alt="GitHub"/>
   </a>
-  <a href="https://discord.com/users/433351598094155787">
-    <img src="https://img.shields.io/badge/Discord-@0xcartoon-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
+  &nbsp;
+  <a href="https://discord.com/users/433351598094155787" target="_blank">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="45" alt="Discord"/>
   </a>
-  <a href="https://t.me/cartoon0x">
-    <img src="https://img.shields.io/badge/Telegram-@cartoon0x-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" />
+  &nbsp;
+  <a href="https://t.me/cartoon0x" target="_blank">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
   </a>
 </p>
