@@ -54,15 +54,15 @@
 ## 🌐 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/0xcartoon" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub"/>
+  <a href="https://github.com/0xcartoon">
+    <img src="https://cdn.simpleicons.org/github/ffffff" height="40" alt="GitHub"/>
   </a>
-  &nbsp;
-  <a href="https://discord.com/users/433351598094155787" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="45" alt="Discord"/>
+  &nbsp;&nbsp;
+  <a href="https://discord.com/users/433351598094155787">
+    <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="Discord"/>
   </a>
-  &nbsp;
-  <a href="https://t.me/cartoon0x" target="_blank">
-    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="45" alt="Telegram"/>
+  &nbsp;&nbsp;
+  <a href="https://t.me/cartoon0x">
+    <img src="https://cdn.simpleicons.org/telegram/26A5E4" height="40" alt="Telegram"/>
   </a>
 </p>
